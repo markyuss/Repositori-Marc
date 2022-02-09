@@ -1,0 +1,100 @@
+:root {
+
+    --primary: #d40d70;
+    --secondary: #caedf0;
+}
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    height: 100rem;
+}
+
+.navbar{
+
+    min-height: 90px;
+}
+
+#quadres-1 {
+
+    min-height: 500px;
+}
+
+#text {
+
+  width: auto;
+}
+
+#reprod_audio{
+
+width:360px;
+height:160px;
+background: #d40d70;
+border:dashed;
+padding-top:20px;
+padding-left:20px;
+
+
+
+}
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.bg-primary {
+    background-color:var(--primary) !important;
+}
+.bg-secondary {
+    background-color: var(--secondary) !important;
+}
+
+.content {
+    max-width: 100px;
+}
+
+#principal {
+    height: 830px;
+}
+
+#barnav2 {
+    height: 100px;
+}
+
+#targ-salarius {
+
+    height: 700px;
+}
+
+.contingut {
+
+    max-width: 500px;
+}
+/*
+#img_bici1 {
+    width: 400px;
+    height: 300px;
+}
+
+#parr1 {
+    width: 390px;
+
+}
+*/
+#targetes {
+    height: 280px;
+}
+
+#peu {
+    height: 500px;
+    
+    
+}

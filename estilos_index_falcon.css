@@ -1,0 +1,60 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+
+    margin: 0;
+    padding: 0;
+   
+    box-sizing: border-box;
+}
+
+header {
+
+    width: 80%;
+    height: 15rem;
+    background-color:greenyellow;
+    margin: 5rem auto;
+    /*comandos flex*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content:center;
+    
+    
+}
+
+.col1{
+
+    background-color: tomato;
+    width: 15rem; 
+    height: 10rem;
+    color:#fff;
+    margin:3rem;
+    padding:2rem;
+    font-size: 4rem;
+    text-align: center;
+    flex-grow:1;
+    flex-shrink: 0;
+    
+  
+                               
+}
+
+.col2{
+
+    background-color: tomato;
+    width: 15rem; 
+    height: 10rem;
+    color:#fff;
+    margin:3rem;
+    padding:2rem;
+    font-size: 4rem;
+    text-align: center;
+    flex-grow:1;
+    flex-shrink: 0;
+    
+  
+                               
+}

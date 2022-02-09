@@ -1,0 +1,65 @@
+:root {
+
+    --primary: #fa9a09;
+    --secondary: #caedf0;
+}
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    height: 100rem;
+}
+
+.navbar{
+
+    min-height: 90px;
+}
+
+
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.bg-primary {
+    background-color:var(--primary) !important;
+}
+.bg-secondary {
+    background-color: var(--secondary) !important;
+}
+
+.content {
+    max-width: 500px;
+}
+
+#principal {
+    height: 830px;
+}
+/*
+#img_bici1 {
+    width: 400px;
+    height: 300px;
+}
+
+#parr1 {
+    width: 390px;
+
+}
+*/
+#targetes {
+    height: 280px;
+}
+
+#peu {
+    height: 500px;
+    
+    
+}
